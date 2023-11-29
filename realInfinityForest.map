@@ -1012,3 +1012,52 @@
 "origin" "304 -544 232"
 "angle" "180"
 }
+// entity 7
+{
+"classname" "item_shells"
+"origin" "1040 -1008 40"
+}
+// entity 8
+{
+"classname" "item_shells"
+"origin" "1040 -112 40"
+}
+// entity 9
+{
+"classname" "item_health"
+"origin" "496 -560 40"
+}
+// entity 10
+{
+"classname" "weapon_nailgun"
+"origin" "176 -544 208"
+"angle" "90"
+}
+// entity 11
+{
+"classname" "item_key2"
+"origin" "1600 -848 264"
+"angle" "90"
+}
+// entity 12
+{
+"classname" "item_health"
+"origin" "1728 -864 240"
+}
+// entity 13
+{
+"classname" "monster_knight"
+"origin" "1632 -528 264"
+"angle" "90"
+}
+// entity 14
+{
+"classname" "monster_knight"
+"origin" "1520 -768 264"
+}
+// entity 15
+{
+"classname" "monster_knight"
+"origin" "1744 -768 264"
+"angle" "180"
+}
