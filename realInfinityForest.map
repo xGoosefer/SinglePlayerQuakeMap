@@ -10572,8 +10572,9 @@
 // entity 5
 {
 "classname" "monster_knight"
-"origin" "1024 -544 120"
-"angle" "180"
+"origin" "768 -528 232"
+"angle" "270"
+"target" "dogKnight_path1"
 }
 // entity 6
 {
@@ -10581,6 +10582,7 @@
 "origin" "304 -544 232"
 "angle" "0"
 "targetname" "huntingGroundEnforcer"
+"target" "sniperPath1"
 }
 // entity 7
 {
@@ -10667,14 +10669,16 @@
 // entity 22
 {
 "classname" "monster_knight"
-"origin" "2336 -944 264"
+"origin" "2296 -944 264"
 "angle" "180"
+"target" "northPatrol_path1"
 }
 // entity 23
 {
 "classname" "monster_knight"
 "origin" "1712 -1104 264"
 "angle" "0"
+"target" "southPatrol_path1"
 }
 // entity 24
 {
@@ -10759,12 +10763,14 @@
 "classname" "monster_knight"
 "origin" "2128 -1552 264"
 "angle" "180"
+"target" "silverKnight1_path1"
 }
 // entity 40
 {
 "classname" "monster_knight"
 "origin" "2128 -1600 264"
 "angle" "180"
+"target" "silverKnight2_path1"
 }
 // entity 41
 {
@@ -10984,4 +10990,109 @@
 "origin" "824 -552 48"
 "target" "dogPath1"
 "targetname" "dogPath4"
+}
+// entity 62
+{
+"classname" "path_corner"
+"origin" "776 -776 216"
+"targetname" "dogKnight_path1"
+"target" "dogKnight_path2"
+}
+// entity 63
+{
+"classname" "path_corner"
+"origin" "776 -312 216"
+"targetname" "dogKnight_path5"
+"target" "dogKnight_path1"
+}
+// entity 64
+{
+"classname" "path_corner"
+"origin" "1016 -312 144"
+"targetname" "dogKnight_path4"
+"target" "dogKnight_path5"
+}
+// entity 65
+{
+"classname" "path_corner"
+"origin" "1016 -776 144"
+"targetname" "dogKnight_path2"
+"target" "dogKnight_path3"
+}
+// entity 66
+{
+"classname" "path_corner"
+"origin" "1016 -536 104"
+"targetname" "dogKnight_path3"
+"target" "dogKnight_path4"
+}
+// entity 67
+{
+"classname" "path_corner"
+"origin" "696 -544 216"
+"targetname" "sniperPath1"
+"target" "sniperPath2"
+}
+// entity 68
+{
+"classname" "path_corner"
+"origin" "256 -544 216"
+"targetname" "sniperPath2"
+"target" "sniperPath1"
+}
+// entity 69
+{
+"classname" "path_corner"
+"origin" "2352 -944 248"
+"targetname" "northPatrol_path2"
+"target" "northPatrol_path1"
+}
+// entity 70
+{
+"classname" "path_corner"
+"origin" "1512 -944 248"
+"targetname" "northPatrol_path1"
+"target" "northPatrol_path2"
+}
+// entity 71
+{
+"classname" "path_corner"
+"origin" "1512 -1104 248"
+"targetname" "southPatrol_path2"
+"target" "southPatrol_path1"
+}
+// entity 72
+{
+"classname" "path_corner"
+"origin" "2352 -1104 248"
+"targetname" "southPatrol_path1"
+"target" "southPatrol_path2"
+}
+// entity 73
+{
+"classname" "path_corner"
+"origin" "2080 -1544 248"
+"targetname" "silverKnight1_path1"
+"target" "silverKnight1_path2"
+}
+// entity 74
+{
+"classname" "path_corner"
+"origin" "2080 -1600 248"
+"targetname" "silverKnight2_path1"
+"target" "silverKnight2_path2"
+}
+// entity 75
+{
+"classname" "path_corner"
+"origin" "2456 -1600 248"
+"targetname" "silverKnight2_path2"
+"target" "silverKnight2_path1"
+}
+// entity 76
+{
+"classname" "path_corner"
+"origin" "2456 -1544 248"
+"targetname" "silverKnight1_path2"
+"target" "silverKnight1_path1"
 }
