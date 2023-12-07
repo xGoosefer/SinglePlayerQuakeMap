@@ -10625,13 +10625,15 @@
 // entity 14
 {
 "classname" "monster_knight"
-"origin" "1520 -768 264"
+"origin" "1520 -616 264"
+"spawnflags" "1"
 }
 // entity 15
 {
 "classname" "monster_knight"
-"origin" "1744 -768 264"
+"origin" "1752 -616 264"
 "angle" "180"
+"spawnflags" "1"
 }
 // entity 16
 {
@@ -10752,11 +10754,13 @@
 "classname" "monster_hell_knight"
 "origin" "1360 -1568 264"
 "angle" "90"
+"spawnflags" "1"
 }
 // entity 38
 {
 "classname" "monster_enforcer"
 "origin" "1616 -1600 264"
+"spawnflags" "1"
 }
 // entity 39
 {
@@ -10764,6 +10768,7 @@
 "origin" "2128 -1552 264"
 "angle" "180"
 "target" "silverKnight1_path1"
+"spawnflags" "1"
 }
 // entity 40
 {
@@ -10771,6 +10776,7 @@
 "origin" "2128 -1600 264"
 "angle" "180"
 "target" "silverKnight2_path1"
+"spawnflags" "1"
 }
 // entity 41
 {
@@ -10792,6 +10798,7 @@
 "classname" "monster_hell_knight"
 "origin" "2208 -1296 264"
 "angle" "270"
+"spawnflags" "1"
 }
 // entity 45
 {
