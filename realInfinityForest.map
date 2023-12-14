@@ -17378,3 +17378,295 @@
 "origin" "1784 -1512 392"
 "wait" "1"
 }
+// entity 198
+{
+"classname" "light"
+"origin" "2792 -1416 392"
+"wait" "2"
+}
+// entity 199
+{
+"classname" "light"
+"origin" "2840 -1416 296"
+"wait" "2"
+}
+// entity 200
+{
+"classname" "light"
+"origin" "2184 -1704 392"
+"wait" "3"
+}
+// entity 201
+{
+"classname" "light"
+"origin" "2296 -1704 296"
+"wait" "3"
+}
+// entity 202
+{
+"classname" "light"
+"origin" "2328 -1704 440"
+"wait" "3"
+}
+// entity 203
+{
+"classname" "light"
+"origin" "1720 -1704 296"
+"wait" "3"
+}
+// entity 204
+{
+"classname" "light"
+"origin" "1672 -1704 392"
+"wait" "3"
+}
+// entity 205
+{
+"classname" "light"
+"origin" "1752 -1704 440"
+"wait" "3"
+}
+// entity 206
+{
+"classname" "light"
+"origin" "1912 -1912 392"
+"wait" "2"
+}
+// entity 207
+{
+"classname" "light"
+"origin" "1960 -1912 296"
+"wait" "2"
+}
+// entity 208
+{
+"classname" "light"
+"origin" "2072 -1912 392"
+"wait" "2"
+}
+// entity 209
+{
+"classname" "light"
+"origin" "2120 -1912 296"
+"wait" "2"
+}
+// entity 210
+{
+"classname" "light"
+"origin" "2840 -1912 296"
+"wait" "2"
+}
+// entity 211
+{
+"classname" "light"
+"origin" "2792 -1912 392"
+"wait" "2"
+}
+// entity 212
+{
+"classname" "light"
+"origin" "2648 -1912 296"
+"wait" "2"
+}
+// entity 213
+{
+"classname" "light"
+"origin" "2600 -1912 392"
+"wait" "2"
+}
+// entity 214
+{
+"classname" "light"
+"origin" "2472 -1912 296"
+"wait" "2"
+}
+// entity 215
+{
+"classname" "light"
+"origin" "2424 -1912 392"
+"wait" "2"
+}
+// entity 216
+{
+"classname" "light"
+"origin" "2248 -1912 392"
+"wait" "2"
+}
+// entity 217
+{
+"classname" "light"
+"origin" "2296 -1912 296"
+"wait" "2"
+}
+// entity 218
+{
+"classname" "light"
+"origin" "2072 -1496 252"
+"wait" "4"
+}
+// entity 219
+{
+"classname" "light"
+"origin" "2168 -1704 280"
+"wait" "3"
+}
+// entity 220
+{
+"classname" "light"
+"origin" "2344 -1704 344"
+"wait" "3"
+}
+// entity 221
+{
+"classname" "light"
+"origin" "2264 -1704 360"
+"wait" "3"
+}
+// entity 222
+{
+"classname" "light"
+"origin" "2840 -1128 360"
+"wait" "3"
+}
+// entity 223
+{
+"classname" "light"
+"origin" "2904 -1128 440"
+"wait" "3"
+}
+// entity 224
+{
+"classname" "light"
+"origin" "2920 -1128 344"
+"wait" "3"
+}
+// entity 225
+{
+"classname" "light"
+"origin" "2872 -1128 296"
+"wait" "3"
+}
+// entity 226
+{
+"classname" "light"
+"origin" "2744 -1128 280"
+"wait" "3"
+}
+// entity 227
+{
+"classname" "light"
+"origin" "2760 -1128 392"
+"wait" "3"
+}
+// entity 228
+{
+"classname" "light"
+"origin" "2680 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 229
+{
+"classname" "light"
+"origin" "2600 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 230
+{
+"classname" "light"
+"origin" "2440 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 231
+{
+"classname" "light"
+"origin" "2520 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 232
+{
+"classname" "light"
+"origin" "2296 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 233
+{
+"classname" "light"
+"origin" "2376 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 234
+{
+"classname" "light"
+"origin" "2152 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 235
+{
+"classname" "light"
+"origin" "2232 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 236
+{
+"classname" "light"
+"origin" "1992 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 237
+{
+"classname" "light"
+"origin" "2072 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 238
+{
+"classname" "light"
+"origin" "1864 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 239
+{
+"classname" "light"
+"origin" "1944 -1208 296"
+"wait" "3"
+"light" "200"
+}
+// entity 240
+{
+"classname" "light"
+"origin" "2488 -1816 296"
+"wait" "3"
+"light" "200"
+}
+// entity 241
+{
+"classname" "light"
+"origin" "2568 -1816 296"
+"wait" "3"
+"light" "200"
+}
+// entity 242
+{
+"classname" "light"
+"origin" "2728 -1816 296"
+"wait" "3"
+"light" "200"
+}
+// entity 243
+{
+"classname" "light"
+"origin" "2648 -1816 296"
+"wait" "3"
+"light" "200"
+}
